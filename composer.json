@@ -1,0 +1,11 @@
+{
+  "require": {
+    "symfony/console": "*",
+    "symfony/Yaml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
